@@ -1,0 +1,18 @@
+html { 
+  background: url(Himmel16x10.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.jumbotron h1 {
+color: #FFCC00;
+font-family:'Poiret One', cursive;
+font-weight:bold;
+font-size: 28px;
+margin-top:0;
+margin-bottom: 18px;
+text-transform: uppercase;
+}
+
