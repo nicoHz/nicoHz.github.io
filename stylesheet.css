@@ -1,0 +1,19 @@
+body {
+    height: 0;
+    padding: 0; /* remove any pre-existing padding, just in case */
+    margin: 0; /* for a 4:3 aspect ratio */
+    background-image: url("Himmel16x9.jpg");
+    background-position: cover;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.jumbotron h1 {
+color: #FFCC00;
+font-family: Verdana, sans-serif;
+font-weight: bold;
+font-size: 18px;
+margin-top: 0;
+margin-bottom:18px;
+text-transform: uppercase;
+}
