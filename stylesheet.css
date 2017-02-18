@@ -2,11 +2,7 @@ body {
     height: 0;
     padding: 0; /* remove any pre-existing padding, just in case */
     margin: 0; /* for a 4:3 aspect ratio */
-<<<<<<< HEAD
-    background-image: url("Himmel16x9.jpg");
-=======
     background-image: url("Himmel16x10.jpg");
->>>>>>> a5480dad8576bee09208a2194c76f26e782419ee
     background-position: cover;
     background-size: 100%;
     background-repeat: no-repeat;
